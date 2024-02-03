@@ -1,1 +1,1 @@
-> Python Programming Lesson 6
+lesson 6
