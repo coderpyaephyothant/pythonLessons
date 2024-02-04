@@ -1,3 +1,1 @@
-> Learning Python Programming . . . 
-
-> Learning Python Programming Language 
+lesson 6
